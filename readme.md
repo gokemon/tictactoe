@@ -46,6 +46,7 @@ These are for extra credit! Don't focus on these until you've hit the core requi
 * Mock-ups (optional - for example, checkout Mockingbird)
 * Stories in Trello -- what do your objectives look like, broken down into unit-sized chunks?
 * GitHub -- create a repo for your app and show that you've been commiting early and often, while utilizing clear commit messages.
+* [Link to Project home](https://github.com/ATL-WDI-Exercises/project-one-requirements)
 
 
 ####Completed Project deliverables (Due ***Wednesday 4/6/2016***):
@@ -53,7 +54,7 @@ These are for extra credit! Don't focus on these until you've hit the core requi
 * Present your project Wednesday afternoon (around 3pm)
 * [Link to Trello Board](https://trello.com/b/3waksLMO/tic-tac-toe)
 * [Link to Deployed App](http://gokemon.github.io/tictactoe/)
-* Link to Wirefames (photos will work too!)
+* ![](https://github.com/gokemon/tictactoe/blob/gh-pages/tttWireframe.png) (photos will work too!)
 * Link to mock-ups (if applicable)
 * Link to source code on GitHub
 
