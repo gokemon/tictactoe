@@ -1,8 +1,27 @@
 body {
     background-color: lightblue;
+    font-size: 10px;
 }
 
 h1 {
     color: navy;
     margin-left: 20px;
+}
+
+#gameboard{
+	width: 31.4em;
+	height: 31.4em;
+	margin: 0 auto;
+	background-color: yellow;
+}
+
+.cell{
+	border: red solid 1px;
+	width: 10em;
+	height: 10em;
+	display: inline-block;
+	background-color: white;
+}
+.rows{
+
 }
