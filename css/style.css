@@ -10,7 +10,7 @@ h1 {
     text-align: center;
 }
 
-#gameboard{
+#gameBoard{
 	width: 31.4em;
 	height: 31.4em;
 	margin: 0 auto;
@@ -24,6 +24,7 @@ h1 {
 	display: inline-block;
 	background-color: white;
 }
+
 .rows{
 
 }
@@ -32,16 +33,14 @@ p{
 	width: 300px;
 	margin: 20px;
 	border: red solid 1px;
-    padding: 5px;
-
-
+  padding: 5px;
 }
 
 footer {
    position:absolute;
    bottom:0;
    width:100%;
-   height:60px;   /* Height of the footer */
+   height:20px;   /* Height of the footer */
    background:#6cf;
    background-color: green;
    text-align: center;
