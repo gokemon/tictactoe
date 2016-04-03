@@ -42,6 +42,7 @@ These are for extra credit! Don't focus on these until you've hit the core requi
 
 ####Project Plan deliverable's:
 
+![wireframe of game](https://github.com/gokemon/tictactoe/blob/gh-pages/assets/tttWireframe.png)
 * Wireframes -- what does the app look like?
 * Mock-ups (optional - for example, checkout Mockingbird)
 * Stories in Trello -- what do your objectives look like, broken down into unit-sized chunks?
