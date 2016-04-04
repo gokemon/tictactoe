@@ -64,6 +64,7 @@ These are for extra credit! Don't focus on these until you've hit the core requi
 ## Testing Logic
 
 ![Testing Paths](https://github.com/gokemon/tictactoe/blob/gh-pages/assets/testingPaths.png)
+
 It makes sense to start in the 1st position and test from there. So the **first test** checks the row, the **second test** also starting in the 1st position checks the first column, and the** 3rd test** checks the diagonal check starting in position 1 and going down from there. 
 
 Likewise, the next test would start with the second position and test any open ranges it can that have not already been checked, which is only the middle column. So **test 4** checks position 2. 

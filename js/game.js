@@ -1,17 +1,26 @@
 $(document).ready(function(){
-
-	var gameCells = $('.cell');
-	var gameMoves = Array(9).join(".").split(".");
 	var gameCounter = 0;
 
 
+
+
+
+
+
+
+  });
+
+
+//=======================================================================
+	var gameCells = $('.cell');
+	var gameMoves = Array(9).join(".").split(".");
+
 	$(gameCells).one('click', function(){
-		gameCounter++;
+		gameCounter++; // increaase before loop
 		gameMoves[this.id] = this.id;
 		console.log(gameMoves, gameCounter);
 	 })
 
-  });
 
 //==========================================================================
 $(document).ready(function(){​
@@ -20,11 +29,11 @@ $(document).ready(function(){​
 	var count = 0;
 	var turn = 'X';
 	
+
 	$($gameCells).one('click', function(){
 		$(this).html(turn);
 		moves[this.id] = turn;
-​
-		count++;
+		count++;// increaase after
 ​
 		turn = (turn == 'X') ? 'O' : 'X';
 		
@@ -37,3 +46,4 @@ $(document).ready(function(){​
 		console.log(moves, count, turn);
 	});
 });
+

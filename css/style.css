@@ -1,5 +1,5 @@
 body {
-    background-color: orange;
+    background-color: white;
     font-size: 10px;
     margin: 0px;
 }
@@ -44,4 +44,11 @@ footer {
    background:#6cf;
    background-color: green;
    text-align: center;
+}
+
+.invisible {
+    visibility:hidden;
+}
+.visible {
+    visibility:visible;
 }
