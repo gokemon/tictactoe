@@ -10,15 +10,15 @@ body {
 }
 
 h1 {
-  color: navy;
-  margin-left: 36px;
+  color: white;
+  margin-left: 0 auto;
   text-align: center;
   font-family: 'chalk', Arial, sans-serif;
 }
 
 #gameBoard{
-	width: 150px;
-	height: 150px;
+	width: 160px;
+	height: 160px;
 	margin: 0 auto;
 	background-color: #006633;
   
@@ -31,14 +31,14 @@ h1 {
 
 .cell{
 	border: red solid 1px;
-	width: 40px;
-	height: 45px;
+	width: 50px;
+	height: 53px;
 	display: inline-block;
 	background-color: white;
   float: left;
   opacity: 0.4;
   font-family: 'chalk', Arial, sans-serif;
-  font-size: 36px; 
+  font-size: 48px; 
   color: black;
   text-align: center;
 }
@@ -47,7 +47,7 @@ h1 {
   width: 200px;
   /* height: 10em; */
   margin: 0 auto;
-  border: red solid 1px;
+  /* border: red solid 1px; */
 }
 
 p{
