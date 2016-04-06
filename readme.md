@@ -19,6 +19,7 @@ Make sure to do all of the following with your app:
 
 * Use HTML, CSS/SASS, JavaScript/jQuery with DOM manipulation
 * Must be deployed
+* Do the documentation
 
 <br>
 
@@ -43,11 +44,11 @@ These are for extra credit! Don't focus on these until you've hit the core requi
 ####Project Plan deliverable's:
 
 ![wireframe of game](https://github.com/gokemon/tictactoe/blob/gh-pages/assets/tttWireframe.png)
-* Wireframes -- what does the app look like?
-* Mock-ups (optional - for example, checkout Mockingbird)
-* Stories in Trello -- what do your objectives look like, broken down into unit-sized chunks?
-* GitHub -- create a repo for your app and show that you've been committing early and often, while utilizing clear commit messages.
-* [Link to Project home](https://github.com/ATL-WDI-Exercises/project-one-requirements)
+- **Wireframes** -what does the app look like?
+- Mock-ups (optional for example, checkout Mockingbird)
+- Stories in Trello -what do your objectives look like, broken down into unit-sized chunks?
+- GitHub -create a repo for your app and show that you've been committing early and often, while utilizing clear commit messages.
+- [Link to Project home](https://github.com/ATL-WDI-Exercises/project-one-requirements)
 
 
 ####Completed Project deliverable's (Due ***Wednesday 4/6/2016***):
@@ -56,7 +57,7 @@ These are for extra credit! Don't focus on these until you've hit the core requi
 * [Link to Trello Board](https://trello.com/b/3waksLMO/tic-tac-toe)
 * [Link to Deployed App](http://gokemon.github.io/tictactoe/)
 * [Link to wireframes & mock-ups](https://github.com/gokemon/tictactoe/blob/gh-pages/assets/tttWireframe.png)
-* Link to source code on GitHub
+* [Link to source code on GitHub](https://github.com/gokemon/tictactoe)
 
 <br>
 
@@ -98,6 +99,13 @@ We'll also be looking at:
 * *I thought I wanted to test for winning solutions by array, first row, second row, third row, first column, second column, third column, and the two diagonals. I knew I needed a click event. I knew I needed a counter. I knew I needed to push moves to an array because Marc walked us through the beginning of the "design" of this project*.
 * **Ability to pick up new technologies and push self-knowledge.** How did I approach any new libraries/technologies and extend my learning into a working game?
 
+# Technologies Used: #
+
+- **Languages** HTML5, CSS3, jQuery
+- **Design**  Balsamiq Mockups, Google Fonts
+- **Project Planning & User Stories** Trello
+- **Tools** Sublime 2 editor, and MarkdownPad 2
+
 
 ## Contributors
 
@@ -112,3 +120,16 @@ We'll also be looking at:
 A short snippet describing the [license ](https://en.wikipedia.org/wiki/Free_software#Licensing "license")(MIT, Apache, etc.)
 This is *"free", "open source", "public domain" etc, etc, etc* stuff.
 I did it for fun and to learn, and hope you have fun playing it as well.
+
+## Other examples of Project Ones
+
+I like looking at the wide variety of projects that other folks do for this simple project. 
+
+[Katie Owen](https://github.com/khowen) joined GH, in Nov 2015, so we can surmise that she was in WDI5-Atlanta, and she has a pretty [interesting first project](https://github.com/khowen/shutTheBox).
+
+Likewise, Jamie King, joined in April 2014, so that was a while back and has some interesting repos, [built tetris](https://github.com/king0120/tetris) and a tictactoe game.
+
+[Josh Sandlin](https://github.com/dydx) was also in WDI5, and built a [cool jeopardy game](https://github.com/dydx/jeopardy)
+
+![](https://d13yacurqjgara.cloudfront.net/users/10118/screenshots/1545282/html5-css3-jquery-coffee2_1x.jpg)
+
