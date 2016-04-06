@@ -131,5 +131,9 @@ Likewise, Jamie King, joined in April 2014, so that was a while back and has som
 
 [Josh Sandlin](https://github.com/dydx) was also in WDI5, and built a [cool jeopardy game](https://github.com/dydx/jeopardy)
 
+
+[Jordan Rust](https://github.com/NyxHemera) is in my cohort and team at General Assembly in Atlanta, and built a [cool tetris game](https://github.com/NyxHemera/tetris-ga), which you can [play here](http://nyxhemera.github.io/tetris-ga/).
+
+
 ![](https://d13yacurqjgara.cloudfront.net/users/10118/screenshots/1545282/html5-css3-jquery-coffee2_1x.jpg)
 
