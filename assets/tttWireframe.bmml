@@ -1,0 +1,43 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="370" measuredH="601" mockupW="370" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="1" w="370" h="600" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="122" y="180" w="127" h="135" measuredW="129" measuredH="134" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <borderStyle>square</borderStyle>
+        <hasHeader>false</hasHeader>
+        <hLines>true</hLines>
+        <size>40</size>
+        <text>X%2CX%2CX%0AO%2CO%2C%0AO%2C%20%2CX</text>
+        <vLines>true</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="77" y="122" w="-1" h="-1" measuredW="217" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tic-Tac-Toe</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="89" y="330" w="192" h="70" measuredW="275" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Rules%20and%20other%0ASed%20ut%20perspiciatis%20unde%20omnis%20iste%20natus%20error%20sit%20voluptatem%20accusantium.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="138" y="409" w="-1" h="-1" measuredW="85" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Play%20Again</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="77" y="497" w="217" h="-1" measuredW="109" measuredH="20" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>12</size>
+        <text>Michael%20Gokey%202016</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,12 +1,43 @@
 <html>
 <head>
-	<title>TicTacToe</title>
-	<link rel="stylesheet"  href="./css/style.css">
+	<title>TicTacToe | Michael Gokey | javascript full-stack developer</title>
+	<link rel="stylesheet" href="./css/style.css">
 	<script src="./js/jquery-2.2.2.js"></script>
-	<script src="./js/game.js"></script>
+	<script src="./js/gokeyGame.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="author" href="https://plus.google.com/u/0/+MichaelGokey"/>
+	<meta name="description" content="a simple game project for learning jQuery">
+	<!-- Not going to add the OG metadata -->	
 </head>
 <body>
-<h1>TicTactToe</h1>
-<p></p>
+<h1>Tic Tac Toe</h1>
+
+<section id="gameBoard">
+	<section class="rows" id="row1">
+		<div class="cell" id="0"></div>
+		<div class="cell" id="1"></div>
+		<div class="cell" id="2"></div>
+	</section>
+	<section class="rows" id="row2">
+		<div class="cell" id="3"></div>
+		<div class="cell" id="4"></div>
+		<div class="cell" id="5"></div>
+	</section>
+	<section class="rows" id="row3">
+		<div class="cell" id="6"></div>
+		<div class="cell" id="7"></div>
+		<div class="cell" id="8"></div>
+	</section>
+</section>
+
+<section id="gameStuff">
+	<p title="Any odd notation such as 0-1, or 3-1 is telling you which test applied to win. This version does not keep score yet.">Notes:<br>
+		<span id="winnerIs"></span><br>
+		<button class="invisible" id="newGame">New game!</button> 
+	</p>
+</section>
+
+
+<footer>gokemon &copy;2016</footer>
 </body>
 </html>
